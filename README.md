@@ -17,7 +17,6 @@
 ##  Repository Structure
 
 ├── .github/workflows/ # CI/CD workflow
-
 ├── docs/ # Project plan, documentation
 ├── images/ # Architecture diagram placeholder
 ├── iac/ # Terraform/Ansible code placeholders
